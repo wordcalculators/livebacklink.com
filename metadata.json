@@ -1,0 +1,6 @@
+{
+  "name": "LiveBacklink - B2B Backlink & Authority Platform",
+  "description": "Premium B2B link building platform for agencies & brands. 5 tiered authority packages, phase-by-phase delivery, live Google Sheet reports, and manual bank transfer processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
